@@ -1,0 +1,949 @@
+[
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.16.0.1/24",
+    "tenant": null,
+    "status": "active",
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:21.668000Z",
+    "last_updated": "2022-04-08T00:25:21.668000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.16.0.2/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:21.772000Z",
+    "last_updated": "2022-04-08T00:25:21.772000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.16.0.3/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:21.942000Z",
+    "last_updated": "2022-04-08T00:25:21.942000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.16.0.4/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:22.056000Z",
+    "last_updated": "2022-04-08T00:25:22.056000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.16.0.5/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:22.157000Z",
+    "last_updated": "2022-04-08T00:25:22.157000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.16.0.6/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:22.245000Z",
+    "last_updated": "2022-04-08T00:25:22.245000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.16.0.7/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:22.331000Z",
+    "last_updated": "2022-04-08T00:25:22.331000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.16.0.8/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:22.416000Z",
+    "last_updated": "2022-04-08T00:25:22.416000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.16.0.9/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:22.500000Z",
+    "last_updated": "2022-04-08T00:25:22.500000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.16.0.10/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:22.586000Z",
+    "last_updated": "2022-04-08T00:25:22.586000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.16.0.11/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:22.671000Z",
+    "last_updated": "2022-04-08T00:25:22.671000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.16.0.12/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:22.756000Z",
+    "last_updated": "2022-04-08T00:25:22.756000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.16.0.13/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:22.846000Z",
+    "last_updated": "2022-04-08T00:25:22.846000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.16.0.14/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:22.936000Z",
+    "last_updated": "2022-04-08T00:25:22.936000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.16.0.15/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:23.026000Z",
+    "last_updated": "2022-04-08T00:25:23.026000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.16.0.16/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:23.135000Z",
+    "last_updated": "2022-04-08T00:25:23.135000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.16.0.17/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:23.268000Z",
+    "last_updated": "2022-04-08T00:25:23.268000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.16.0.18/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:23.385000Z",
+    "last_updated": "2022-04-08T00:25:23.385000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.16.0.19/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:23.482000Z",
+    "last_updated": "2022-04-08T00:25:23.482000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.16.0.20/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:23.570000Z",
+    "last_updated": "2022-04-08T00:25:23.570000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.16.0.21/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:23.660000Z",
+    "last_updated": "2022-04-08T00:25:23.660000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.16.0.22/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:23.760000Z",
+    "last_updated": "2022-04-08T00:25:23.760000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.16.0.23/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:23.852000Z",
+    "last_updated": "2022-04-08T00:25:23.852000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.16.0.24/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:23.949000Z",
+    "last_updated": "2022-04-08T00:25:23.949000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.16.0.25/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:24.038000Z",
+    "last_updated": "2022-04-08T00:25:24.038000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.16.0.26/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:24.124000Z",
+    "last_updated": "2022-04-08T00:25:24.124000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.16.0.27/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:24.211000Z",
+    "last_updated": "2022-04-08T00:25:24.211000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.16.0.28/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:24.300000Z",
+    "last_updated": "2022-04-08T00:25:24.300000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.16.0.29/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:24.393000Z",
+    "last_updated": "2022-04-08T00:25:24.393000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.16.0.30/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:24.516000Z",
+    "last_updated": "2022-04-08T00:25:24.516000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.17.0.1/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:24.627000Z",
+    "last_updated": "2022-04-08T00:25:24.627000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.17.0.2/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:24.753000Z",
+    "last_updated": "2022-04-08T00:25:24.753000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.17.0.3/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:24.873000Z",
+    "last_updated": "2022-04-08T00:25:24.873000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.17.0.4/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:24.976000Z",
+    "last_updated": "2022-04-08T00:25:24.976000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.17.0.5/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:25.079000Z",
+    "last_updated": "2022-04-08T00:25:25.079000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.17.0.6/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:25.193000Z",
+    "last_updated": "2022-04-08T00:25:25.193000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.17.0.7/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:25.321000Z",
+    "last_updated": "2022-04-08T00:25:25.321000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.17.0.8/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:25.410000Z",
+    "last_updated": "2022-04-08T00:25:25.410000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.17.0.9/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:25.508000Z",
+    "last_updated": "2022-04-08T00:25:25.508000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.17.0.10/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:25.605000Z",
+    "last_updated": "2022-04-08T00:25:25.605000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.17.0.11/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:25.693000Z",
+    "last_updated": "2022-04-08T00:25:25.693000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.17.0.12/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:25.779000Z",
+    "last_updated": "2022-04-08T00:25:25.779000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.17.0.13/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:25.868000Z",
+    "last_updated": "2022-04-08T00:25:25.868000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.17.0.14/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:25.996000Z",
+    "last_updated": "2022-04-08T00:25:25.996000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.17.0.15/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:26.108000Z",
+    "last_updated": "2022-04-08T00:25:26.108000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.17.0.16/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:26.219000Z",
+    "last_updated": "2022-04-08T00:25:26.219000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.17.0.17/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:26.329000Z",
+    "last_updated": "2022-04-08T00:25:26.329000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.17.0.18/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:26.426000Z",
+    "last_updated": "2022-04-08T00:25:26.426000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.17.0.19/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:26.513000Z",
+    "last_updated": "2022-04-08T00:25:26.513000Z"
+  },
+  {
+    "family": {
+      "value": 4,
+      "label": "IPv4"
+    },
+    "address": "172.17.0.20/24",
+    "tenant": null,
+    "status": "active",
+    "role": null,
+    "assigned_object_type": null,
+    "assigned_object": null,
+    "dns_name": "",
+    "description": "",
+    "comments": "",
+    "tags": [],
+    "custom_fields": {},
+    "created": "2022-04-08T00:25:26.598000Z",
+    "last_updated": "2022-04-08T00:25:26.598000Z"
+  }
+]

@@ -1,0 +1,14 @@
+{
+	"host1.example.com": {
+		"interfaces": [
+			{
+				"name": "eth0",
+				"type": "ethernet",
+				"speed": 1
+			}
+		],
+		"location": {}
+		"deviceType": "server",
+		"rack-hight": 2,
+	};
+}

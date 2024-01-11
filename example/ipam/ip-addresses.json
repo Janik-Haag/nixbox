@@ -1,0 +1,6 @@
+{
+	"198.51.100.2/24": {
+		"status": "active",
+		"dns_name": "host1.example.com"
+	}
+}
