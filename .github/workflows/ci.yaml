@@ -14,7 +14,7 @@ jobs:
           diagnostic-endpoint: ""
 
       - name: "Check evaluation"
-        run: nix flake check --no-build --all-systems
+        run: nix flake check --all-systems
 
       # - name: "Run unit-tests"
       #   run: nix run github:nix-community/nix-unit -- --flake .#tests
@@ -25,6 +25,3 @@ jobs:
 
       - name: "Check formatting"
         run: nix fmt -- --check .
-
-      - name: "Try building the cli"
-        run: nix build .#cli
