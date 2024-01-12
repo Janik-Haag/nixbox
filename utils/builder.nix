@@ -4,13 +4,16 @@
   ;
   dataSource = data:
     pkgs.linkFarm "dataFiles" (
-      lib.mapAttrsToList (
-        n: v: {
-          name = n; path = dataFile n v;
+      lib.mapAttrsToList
+        (
+          n: v: {
+            name = n;
+            path = dataFile n v;
+          }
+        )
+        {
+          address = builtins.fromJSON (builtins.readFile ../example/ipam/ip-addresses.json);
         }
-      ) {
-        address = builtins.fromJSON (builtins.readFile ../example/ipam/ip-addresses.json);
-      }
     )
   ;
 }

@@ -1,7 +1,7 @@
 {
   ipam = {
     data = import ./ipam;
-    nixosConfigurations = {};
+    nixosConfigurations = { };
   };
   netbox = {
     domain = "https://demo.netbox.dev";
