@@ -25,3 +25,23 @@ Now you can run the nixbox cli to fetch the data:
 ```bash
 nix run github:Janik-Haag/nixbox -- export
 ```
+
+### Import data into netbox
+
+NetBox has a concept called datafiles/datasources, you can read about the [here](https://docs.netbox.dev/en/stable/models/core/datafile/)
+Currently they only provide a structured interface for importing files, but I'm planning on adding synchronization support to NetBox,
+which shouldn't be too hard to pull of since most of the required infrastructure already exists.
+
+In the meantime you can build a demo data file with:
+```bash
+nix build github:Janik-Haag/nixbox#dataSourceDemo
+```
+
+This will result in:
+```
+./result
+└── address
+```
+
+You can now go ahead and upload the file on to the demo instance [here](https://demo.netbox.dev/ipam/ip-addresses/import/#tab_upload-form)
+And see that it successfully imports the objects from `./example/ipam/ip-addresses.json`.
