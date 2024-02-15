@@ -58,6 +58,7 @@
 
               # nixbox-cli
               cargo
+              clippy
             ];
           };
         });
