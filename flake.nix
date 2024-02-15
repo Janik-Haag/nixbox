@@ -40,6 +40,11 @@
           };
         }
       );
+      utils = import ./utils { inherit (nixpkgs) lib; };
+      nixosModules = rec {
+        nixbox = import ./modules/nixbox.nix { inherit (self) utils; };
+        default = nixbox;
+      };
       formatter = forAllSystems (
         system:
         nixpkgs.legacyPackages.${system}.nixpkgs-fmt
@@ -58,6 +63,7 @@
 
               # nixbox-cli
               cargo
+              clippy
             ];
           };
         });

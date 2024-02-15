@@ -1,6 +1,6 @@
 use clap::{Parser, Subcommand};
 use serde::{Serialize, Deserialize};
-use tvix_serde;
+// use tvix_serde;
 use std::net::IpAddr;
 use std::{env, path::PathBuf};
 use std::error;
@@ -43,7 +43,7 @@ fn netbox_api_request(url: String) -> Result<String, Box<dyn error::Error>> {
     let client = reqwest::blocking::Client::new();
 
     // We can't use the bearer auth method because netbox doesn't comply with the standards.
-    let resp = client.get(&url).header("Authorization", "Token ".to_owned() + &token).send()?;
+    let resp = client.get(url).header("Authorization", "Token ".to_owned() + &token).send()?;
     let json = resp.json::<serde_json::Value>()?;
     Ok(json.to_string())
 }
@@ -59,7 +59,7 @@ struct Nix {
 // the code here is just a filler example to make it compile happily
 fn get_current_config() -> Result<Nix, Box<dyn error::Error>> {
     let deserialized: Result<Nix, Box<dyn error::Error>> = Ok(tvix_serde::from_str::<Nix>("lib.attrsets.recursiveUpdate { a = \"coding with tvix!\"; } { b = 231; }")?);
-    return deserialized;
+    deserialized
 }
 
 fn add(ips: bool) -> Result<(), Box<dyn error::Error>> {
