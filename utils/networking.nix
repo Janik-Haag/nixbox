@@ -20,7 +20,7 @@
       in
       lib.throwIf (from > to) "the second input has to be larger then the first one, otherwise you have a negative range which is impossible or not a range."
         helper
-        { list = [ ]; counter = (to - from); }
+        { list = [ ]; counter = to - from; }
     ;
   };
 }
