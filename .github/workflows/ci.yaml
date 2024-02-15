@@ -19,9 +19,8 @@ jobs:
       # - name: "Run unit-tests"
       #   run: nix run github:nix-community/nix-unit -- --flake .#tests
 
-      # statix currently crashes on ./modules for some unknown to me reason
-      # - name: "Do linting"
-      #   run: nix run nixpkgs#statix -- check .
+      - name: "Do linting"
+        run: nix run nixpkgs#statix -- check .
 
       - name: "Check formatting"
         run: nix fmt -- --check .
