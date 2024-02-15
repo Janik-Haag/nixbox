@@ -49,6 +49,7 @@
         system:
         nixpkgs.legacyPackages.${system}.nixpkgs-fmt
       );
+      tests = nixpkgs.lib.mapAttrs (name: v: import "${./utils}/tests/${name}.nix" { inherit self; inherit (nixpkgs) lib; inherit (self) utils; }) (builtins.removeAttrs self.utils [ "__unfix__" "extend" "generate" ]);
       devShells = forAllSystems (system:
         let
           pkgs = nixpkgs.legacyPackages.${system};

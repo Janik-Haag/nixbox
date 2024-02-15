@@ -16,8 +16,8 @@ jobs:
       - name: "Check evaluation"
         run: nix flake check --all-systems
 
-      # - name: "Run unit-tests"
-      #   run: nix run github:nix-community/nix-unit -- --flake .#tests
+      - name: "Run unit-tests"
+        run: nix run github:nix-community/nix-unit -- --flake .#tests
 
       - name: "Do linting"
         run: nix run nixpkgs#statix -- check .
