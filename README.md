@@ -16,7 +16,7 @@ The login credentials are admin:admin
 ### Export data from an existing NetBox instance
 
 First we need to get a api token to authenticate against the api.
-And store it in `NIXBOX_NETBOX_TOKEN` so NixBox can
+And store it in `NIXBOX_NETBOX_TOKEN` so NixBox can use it:
 ```bash
 export NIXBOX_NETBOX_TOKEN=$(curl -s -X POST -H "Content-Type: application/json" -H "Accept: application/json; indent=4" https://demo.netbox.dev/api/users/tokens/provision/ --data '{ "username": "admin", "password": "admin" }' | jq -r -e .key)
 ```
